@@ -1,0 +1,8 @@
+export { default as TogePagination } from './TogePagination.vue'
+export { default as TogePaginationContent } from './TogePaginationContent.vue'
+export { default as TogePaginationEllipsis } from './TogePaginationEllipsis.vue'
+export { default as TogePaginationFirst } from './TogePaginationFirst.vue'
+export { default as TogePaginationItem } from './TogePaginationItem.vue'
+export { default as TogePaginationLast } from './TogePaginationLast.vue'
+export { default as TogePaginationNext } from './TogePaginationNext.vue'
+export { default as TogePaginationPrevious } from './TogePaginationPrevious.vue'

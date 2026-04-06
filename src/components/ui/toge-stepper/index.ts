@@ -1,0 +1,7 @@
+export { default as TogeStepper } from './TogeStepper.vue'
+export { default as TogeStepperDescription } from './TogeStepperDescription.vue'
+export { default as TogeStepperIndicator } from './TogeStepperIndicator.vue'
+export { default as TogeStepperItem } from './TogeStepperItem.vue'
+export { default as TogeStepperSeparator } from './TogeStepperSeparator.vue'
+export { default as TogeStepperTitle } from './TogeStepperTitle.vue'
+export { default as TogeStepperTrigger } from './TogeStepperTrigger.vue'
